@@ -45,13 +45,13 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif; 
-    font-size: 3em;
+    font-size: 4em;
     margin-bottom: 10px;
 }
 
 h2 {
     font-family: 'Lora', serif; 
-    font-size: 2em;
+    font-size: 3em;
     margin-bottom: 20px;
     color: rgba(255, 255, 255, 0.9); 
     text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.7);
@@ -285,4 +285,16 @@ p {
         margin: 5px;
         text-align: center; 
     }
+    h1 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Lora', serif; 
+    font-size: 1em;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.9); 
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.7);
 }
